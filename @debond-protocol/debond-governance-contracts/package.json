@@ -1,0 +1,27 @@
+{
+  "name": "@debond-protocol/debond-governance-contracts",
+  "version": "0.0.3",
+  "description": "Debond Governance Contracts",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Debond-Protocol/Debond-Governance.git"
+  },
+  "keywords": [
+    "debond",
+    "protocol",
+    "governance"
+  ],
+  "author": "Debond Protocol <info@debond.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Debond-Protocol/Debond-Governance/issues"
+  },
+  "homepage": "https://github.com/Debond-Protocol/Debond-Governance#readme"
+}
